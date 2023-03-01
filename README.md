@@ -4,6 +4,7 @@
 
 ** Get user list **
 > statusCode assertation
+
 > response time assertation
 > Get body into a serializable class
 > Email format validation
