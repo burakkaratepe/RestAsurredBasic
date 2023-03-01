@@ -19,7 +19,7 @@
 
 > Get body into a serializable class
 
-## Run test
+## Run tests
 
 ```
 mvn clean test -DsuiteXmlFile=testng.xml
